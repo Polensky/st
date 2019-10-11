@@ -9,6 +9,7 @@ sudo make clean install
 ```
 
 ## Keybindings
+| | |
 | --- | --- |
 |`alt-j/k` | zoom out/in |
 |`alt-0` | reset zoom |
