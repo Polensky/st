@@ -82,54 +82,6 @@ char *termname = "st-256color";
  */
 unsigned int tabspaces = 8;
 
-// WHITE THEME
-///* Terminal colors (16 first used in escape sequence) */
-//static const char *colorname[] = {
-//
-//  /* 8 normal colors */
-//  [0] = "#4c566a", /* black   */
-//  [1] = "#bf616a", /* red     */
-//  [2] = "#88ac69", /* green   */
-//  [3] = "#e2bd72", /* yellow  */
-//  [4] = "#658db5", /* blue    */
-//  [5] = "#a4779c", /* magenta */
-//  [6] = "#67aba9", /* cyan    */
-//  [7] = "#bac3d6", /* white   */
-//
-//  /* 8 bright colors */
-//  [8]  = "#4c566a", /* black   */
-//  [9]  = "#bf616a", /* red     */
-//  [10] = "#88ac69", /* green   */
-//  [11] = "#e2bd72", /* yellow  */
-//  [12] = "#658db5", /* blue    */
-//  [13] = "#a4779c", /* magenta */
-//  [14] = "#67aba9", /* cyan    */
-//  [15] = "#bac3d6", /* white   */
-//
-//  /* special colors */
-//  [256] = "#edf0f4", /* background */
-//  [257] = "#2e3440", /* foreground */
-//};
-//
-///*
-// * Default colors (colorname index)
-// * foreground, background, cursor
-// */
-//unsigned int defaultfg = 257;
-//unsigned int defaultbg = 256;
-//static unsigned int defaultcs = 257;
-//static unsigned int defaultrcs = 257;
-//
-///*
-// * Colors used, when the specific fg == defaultfg. So in reverse mode this
-// * will reverse too. Another logic would only make the simple feature too
-// * complex.
-// */
-//static unsigned int defaultitalic = 7;
-//static unsigned int defaultunderline = 7;
-//
-//// WHITE THEME
-
 // DARK THEME
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {

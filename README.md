@@ -1,5 +1,5 @@
 # My build of the [suckless terminal (st)](https://st.suckless.org/)
-
+This build doesnt fetch the color theme from the Xressource. If you want to change it, you'll have to modify the `config.h`. This build use the [Nord Theme](https://www.nordtheme.com/).
 ## How to install
 ```
 git clone https://github.com/Polensky/st
