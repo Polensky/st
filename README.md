@@ -9,9 +9,8 @@ sudo make clean install
 ```
 
 ## Keybindings
--|-
-`alt-j/k` | zoom out/in
-`alt-0` | reset zoom
-`alt-l` | open urls in default browser with dmenu
-`alt-c/v` | copy/paste
-`alt-pageup/pagedown` | scroll up/down
+|`alt-j/k` | zoom out/in |
+|`alt-0` | reset zoom |
+|`alt-l` | open urls in default browser with dmenu |
+|`alt-c/v` | copy/paste |
+|`alt-pageup/pagedown` | scroll up/down |
