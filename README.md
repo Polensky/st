@@ -8,7 +8,7 @@ sudo make clean install
 ```
 
 ## How to use
-|  Keybindings |
+|  Keybinding | Description |
 | --- | --- |
 |`alt-j/k` | zoom out/in |
 |`alt-0` | reset zoom |
