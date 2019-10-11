@@ -1,15 +1,14 @@
 # My build of the [suckless terminal (st)](https://st.suckless.org/)
 
 ## How to install
-
 ```
 git clone https://github.com/Polensky/st
 cd st
 sudo make clean install
 ```
 
-## Keybindings
-| | |
+## How to use
+|  Keybindings |
 | --- | --- |
 |`alt-j/k` | zoom out/in |
 |`alt-0` | reset zoom |
